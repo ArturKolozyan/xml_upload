@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ads>
+    <ad>
+        <title>Продается квартира в центре города</title>
+        <price>1500000</price>
+        <address>ул. Ленина, д. 10</address>
+        <area>75.5</area>
+        <link>http://example.com/ad1</link>
+        <date>2023-10-01</date>
+    </ad>
+    <ad>
+        <title>Продается дом с участком</title>
+        <price>3500000</price>
+        <address>ул. Советская, д. 5</address>
+        <area>120.0</area>
+        <link>http://example.com/ad2</link>
+        <date>2023-10-02</date>
+    </ad>
+    <ad>
+        <title>Продается комната в новостройке</title>
+        <price>500000</price>
+        <address>ул. Пушкина, д. 20</address>
+        <area>25.0</area>
+        <link>http://example.com/ad3</link>
+        <date>2023-10-03</date>
+    </ad>
+</ads>
